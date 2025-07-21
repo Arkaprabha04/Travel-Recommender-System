@@ -1,0 +1,1 @@
+The Travel Recommender System uses data-driven techniques and machine learning algorithms to suggest tailored travel options to users. The goal is to enhance travel planning by providing relevant, user-specific recommendations, making trip planning faster, smarter, and more enjoyable.
